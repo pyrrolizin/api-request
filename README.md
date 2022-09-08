@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my api-request collection 👋</h1>
 <p>
-  <img alt="Finished Projects" src="https://img.shields.io/badge/finished_projects_so_far-5-blue.svg?cacheSeconds=25920" />
+  <img alt="Finished Projects" src="https://img.shields.io/badge/finished_projects_so_far-6-blue.svg?cacheSeconds=25920" />
   <a href="https://github.com/pyrrolizin/api-request/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
@@ -69,6 +69,7 @@ All of the projects have to fulfil the following minimal features and functions.
 
 | Repository        | Primary Language(s)   | Web design pattern   | Frontend   | Backend   | Comment
 | ---               | ---  | --- | ---- | ---- |---- | 
+ [aspnet-api-request](https://github.com/pyrrolizin/aspnet-api-request) | ASP.NET / C# | SSR | Razor-Pages | C# | Using RestSharp   |
 | [astro-api-request](https://github.com/pyrrolizin/astro-api-request) | Astro / TypeScript | SSR | Astro | Astro | New framework. Very nice! |
 | [gin-api-request](https://github.com/pyrrolizin/gin-api-request)   | GoLang | SSR | Gin Template | Gin Framework   | experimental framework    |
 | [flask-api-request](https://github.com/pyrrolizin/flask-api-request) | Python | SSR | Jinja Template| Python Flask  | first project     |
@@ -77,6 +78,7 @@ All of the projects have to fulfil the following minimal features and functions.
 
 ### 💬 Used Languages
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -95,6 +97,7 @@ All of the projects have to fulfil the following minimal features and functions.
 
 ### ⚙️ Backend Tools
 
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-%239146FF?style=for-the-badge)
 ![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
