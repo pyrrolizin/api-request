@@ -1,0 +1,15 @@
+[submodule "astro-api-request"]
+	path = astro-api-request
+    url = https://github.com/pyrrolizin/astro-api-request.git   
+[submodule "gin-api-request"]
+	path = gin-api-request
+    url = https://github.com/pyrrolizin/gin-api-request.git    
+[submodule "flask-api-request"]
+	path = flask-api-request
+    url = https://github.com/pyrrolizin/flask-api-request.git    
+[submodule "nextjs-api-request"]
+	path = nextjs-api-request
+    url = https://github.com/pyrrolizin/nextjs-api-request.git    
+[submodule "spring-api-request"]
+	path = spring-api-request
+    url = https://github.com/pyrrolizin/spring-api-request.git    
