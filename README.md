@@ -12,12 +12,12 @@ The goal is to recreate the same webapp project in different languages, web desi
 
 ## 📖 Table of contents
 
-* [List of Features](#🔹-list-of-features)
-  * [Frontend](#🖥-frontend)
-  * [Backend](#💻-backend)
-  * [Documentation](#📔-documentation)
-* [Demos so far](#☀️-demos-so-far)
-  * [Used Languages and more](#💬-used-languages)
+* [List of Features](#-list-of-features)
+  * [Frontend](#-frontend)
+  * [Backend](#-backend)
+  * [Documentation](#-documentation)
+* [Demos so far](#-demos-so-far)
+  * [Used Languages and more](#-used-languages)
 
 ## ✨ Demo (OpenWeatherMap-Api - Current weather in Stuttgart, Germany)
 
@@ -65,7 +65,7 @@ All of the projects have to fulfil the following minimal features and functions.
   * *how to compile/pack the web application for deployment*
 * MIT license
 
-## ☀️ Demos so far
+## 🎉 Demos so far
 
 | Repository        | Primary Language(s)   | Web design pattern   | Frontend   | Backend   | Comment
 | ---               | ---  | --- | ---- | ---- |---- | 
